@@ -1,0 +1,15 @@
+ONFIRE2023_Example_Code
+datasets/*
+results
+FRAMES
+TRAINING_SET
+GT
+testmodels
+test
+**/*.pth
+models/saved
+*.csv
+*.pyc
+!datasets/dfire_firesense_kmu_foggia.json
+!experiments/mobilenet-v3s-more-params-stratified-kfold/foggia-unbalanced-ext/fold_5_best_model.pth
+!datasets/foggia-unbalanced/VIDEOS/TRAINING_SET/training_set_ONFIRE.json
